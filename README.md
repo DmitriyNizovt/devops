@@ -1,5 +1,1 @@
-# Мой DevOps репозиторий
- This is a change on main
-Это дополнение после первого коммита.
-
-<!-- Этот комментарий добавлен перед push -->
+# Мой DevOps репозиторий  This is a change on main
